@@ -1,10 +1,10 @@
 ### Twitch-Chat
 
-📜 I made an script in Python for receive message from twitch chat.
+📜 I did a script in Python to receive messages from a twitch chat.
 
 ## Tutorial 💻
 
-For use the bot, make sure to do this:
+To use the bot, make sure to do this:
 
 ```py
 class Bot(commands.Bot):
@@ -32,9 +32,9 @@ bot = Bot()
 bot.run()
 ```
 
-And now, you can run the script and you'll have message content and message's author !
+And now, you can run the script and you'll have messages content and messages's authors !
 
 
-## Wanna contact us ? 🤔
+## Wanna contact me ? 🤔
 
-If you wanna contact us, send mail at miyucode@gmail.com
+If you wanna contact me, send me an mail at miyucode@gmail.com
