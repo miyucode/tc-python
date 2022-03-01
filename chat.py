@@ -16,9 +16,6 @@ class Bot(commands.Bot):
     async def event_message(self, ctx: commands.Context):
         print(f"{ctx.author.name} : {ctx.content}")
 
-    @commands.command()
-    async def event_message(self, ctx: commands.Context):
-        print(f"{ctx.author.name} : {ctx.content}")
 
 bot = Bot()
 bot.run()
